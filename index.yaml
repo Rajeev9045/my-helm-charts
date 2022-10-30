@@ -9,6 +9,7 @@ entries:
     name: chart1
     type: application
     urls:
-    - https://rajeev9045.github.io/my-helm-chart/chart1-0.1.0.tgz
+    - https://rajeev9045.github.io/my-helm-charts/chart1-0.1.0.tgz
     version: 0.1.0
 generated: "2022-10-31T01:27:41.408471844+05:30"
+
