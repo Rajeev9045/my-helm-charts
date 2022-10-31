@@ -9,7 +9,7 @@ entries:
     name: chart2
     type: application
     urls:
-    - https://rajeev9045.github.io/my-helm-chart/chart2-0.1.0.tgz
+    - https://rajeev9045.github.io/my-helm-charts/chart2-0.1.0.tgz
     version: 0.1.0
   chart3:
   - apiVersion: v2
@@ -20,6 +20,6 @@ entries:
     name: chart3
     type: application
     urls:
-    - https://rajeev9045.github.io/my-helm-chart/chart3-0.1.0.tgz
+    - https://rajeev9045.github.io/my-helm-charts/chart3-0.1.0.tgz
     version: 0.1.0
 generated: "2022-10-31T11:40:53.099561259+05:30"
