@@ -3,12 +3,23 @@ entries:
   chart3:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-31T11:40:53.103073339+05:30"
+    created: "2022-11-02T16:34:37.656496734+05:30"
     description: A Helm chart for Kubernetes
     digest: 945439af6a5a7219ad00bc1f88986d0444f115467dee8b4a81358d5cb9386a2e
     name: chart3
     type: application
     urls:
-    - https://rajeev9045.github.io/my-helm-charts/chart3-0.1.0.tgz
+    - https://rajeev9045.github.io/my-helm-chart/chart3-0.1.0.tgz
     version: 0.1.0
-generated: "2022-10-31T11:40:53.099561259+05:30"
+  chart4:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-11-02T16:34:37.65761484+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 41a1b5522fbf8802df18141f16aecf73dc55fc3c580177e2866a285703f04f52
+    name: chart4
+    type: application
+    urls:
+    - https://rajeev9045.github.io/my-helm-chart/chart4-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-11-02T16:34:37.655779837+05:30"
