@@ -3,7 +3,7 @@ entries:
   chart-3nov:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-07T12:35:21.063046192+05:30"
+    created: "2022-12-07T15:19:53.388305331+05:30"
     description: A Helm chart for Kubernetes
     digest: cce4ffc0d46b2faee3514ecf27669100176f0873ff05fe51c6564a51ac512637
     name: chart-3nov
@@ -22,4 +22,15 @@ entries:
     urls:
     - https://rajeev9045.github.io/my-helm-charts/dec-chart1-0.1.0.tgz
     version: 0.1.0
-generated: "2022-12-07T12:35:21.060511376+05:30"
+  dec-version2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-07T15:19:53.388898114+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 9bf732b388d877f00d27fd50258565e78896d9873c40c56971272fc6b6557b20
+    name: dec-version2
+    type: application
+    urls:
+    - https://rajeev9045.github.io/my-helm-charts/dec-version2-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-12-07T15:19:53.387500272+05:30"
