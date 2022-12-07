@@ -11,17 +11,6 @@ entries:
     urls:
     - https://rajeev9045.github.io/my-helm-charts/chart-3nov-0.1.0.tgz
     version: 0.1.0
-  chart4:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-12-07T12:35:21.063907842+05:30"
-    description: A Helm chart for Kubernetes
-    digest: 41a1b5522fbf8802df18141f16aecf73dc55fc3c580177e2866a285703f04f52
-    name: chart4
-    type: application
-    urls:
-    - https://rajeev9045.github.io/my-helm-charts/chart4-0.1.0.tgz
-    version: 0.1.0
   dec-chart1:
   - apiVersion: v2
     appVersion: 1.16.0
